@@ -45,8 +45,8 @@ I'm a passionate **Full Stack Developer** specializing in the **MERN stack**, wi
 - 📫 How to reach me: **balabugata3@gmail.com**  
 
 💼 Expertise
-- Languages: Java, Python, JavaScript, Kotlin, C, C++, PHP
-- Domains: Web Development, Mobile Apps, Data Science, AI/ML
+- Languages: Java, Python, JavaScript, C, C++
+- Domains: Web Development, Data Science, AI/ML
 
 <br clear="right"/>
 
