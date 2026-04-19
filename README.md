@@ -21,7 +21,7 @@
   <a href="mailto:balabugata3@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
   </a>
-  <a href="">
+  <a href="https://bala-verse.netlify.app/">
       <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=dev.to&logoColor=white"/>
   </a>
 </p>
